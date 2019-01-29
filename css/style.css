@@ -270,6 +270,10 @@ img.icon{
   position: center;
 }
 
+img.icon_small{
+  width: 3%;
+}
+
 #service{
   text-align: center;
   padding: 3%;
