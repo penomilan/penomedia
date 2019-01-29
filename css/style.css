@@ -98,6 +98,15 @@ img {
   max-width: 100%;
 }
 
+img.icon{
+  width: 20%;
+  position: center;
+}
+
+img.icon_small{
+  width: 25px;
+}
+
 
 /* preloader styles
 /* ========================================== */
@@ -263,15 +272,6 @@ nav ul.right {
 a.icon {
   font-size: 32px;
   padding-right: 20px;
-}
-
-img.icon{
-  width: 20%;
-  position: center;
-}
-
-img.icon_small{
-  width: 3%;
 }
 
 #service{
