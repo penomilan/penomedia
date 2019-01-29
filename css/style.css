@@ -265,9 +265,18 @@ a.icon {
   padding-right: 20px;
 }
 
-.icon{
+img.icon{
   width: 20%;
   position: center;
+}
+
+#service{
+  text-align: center;
+  padding: 3%;
+}
+#projects{
+  text-align: center;
+  padding-top: 5%;
 }
 
 .intro-inner {  
