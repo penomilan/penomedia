@@ -440,30 +440,29 @@ a.icon {
 .header-three, .header-four,
 .header-five {
   height: 42vh !important;
-  min-height: 420px;
+  min-height: 380px;
   padding-top: 120px !important;
 }
 
 .header-one {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: white;
+  /*
   height: 60vh !important;
   min-height: 520px;
   padding-top: 150px !important;
+  */
 }
 .header-two {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: white;
 }
 .header-three {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: white;
 }
 .header-four {
-  background: url('../images/header-bg.jpg') no-repeat;
+  background: white;
 }
 .header-five {
   background: url('../images/header-five-bg.jpg') no-repeat;
-}
-.header-six {
-  background: url('../images/blog.jpg') no-repeat;
 }
 
 /* Portfolio section styles
