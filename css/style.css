@@ -438,6 +438,8 @@ a.icon {
   to{border-right-color: transparent;}
 }
 
+/* header section styles*/
+
 #header {
   -webkit-background-size: cover;
   background-size: cover;
